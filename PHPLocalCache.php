@@ -1,4 +1,9 @@
 <?php
+/*
+ * Author: github.com/rcarvs
+ * Licence: MIT
+ *
+ */
 class PHPLocalCache{
 
     const RETURN_AS_JSON = "json";
